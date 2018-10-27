@@ -6,6 +6,12 @@ NodeJS Basic Template
 2. `npm version <major or minor or patch>` - to increase the version in package.json
 3. `npm publish` - learn how to publish
 
+## Nodejs commands
+
+
+## Git commands
+1. `git rev-list --count HEAD` - get the number of commits
+
 ### Help
 The [link](https://www.wolfe.id.au/2014/02/01/getting-a-new-node-project-started-with-npm/ "hint") is here
 
