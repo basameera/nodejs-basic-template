@@ -15,5 +15,5 @@ NodeJS Basic Template
 ### Help
 The [link](https://www.wolfe.id.au/2014/02/01/getting-a-new-node-project-started-with-npm/ "hint") is here
 
-## MD Hints
+### MD Hints
 The [link](https://github.com/fletcher/MultiMarkdown/blob/master/Documentation/Markdown%20Syntax.md/ "MD Hints") is here
