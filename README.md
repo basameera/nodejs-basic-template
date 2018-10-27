@@ -12,8 +12,13 @@ NodeJS Basic Template
 ## Git commands
 1. `git rev-list --count HEAD` - get the number of commits
 
-### Help
+## Help
+### NPM
 The [link](https://www.wolfe.id.au/2014/02/01/getting-a-new-node-project-started-with-npm/ "hint") is here
+
+### Nodejs
+
+### Git
 
 ### MD Hints
 The [link](https://github.com/fletcher/MultiMarkdown/blob/master/Documentation/Markdown%20Syntax.md/ "MD Hints") is here
