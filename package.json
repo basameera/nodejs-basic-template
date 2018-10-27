@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-basic-template",
+  "version": "0.0.0",
+  "description": "NodeJS Basic Template",
+  "main": "app.js",
+  "scripts": {
+    "test": "test cmds"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basameera/nodejs-basic-template.git"
+  },
+  "keywords": [
+    "keyword1"
+  ],
+  "author": "Sameera Sandaruwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basameera/nodejs-basic-template/issues"
+  },
+  "homepage": "https://github.com/basameera/nodejs-basic-template#readme"
+}
